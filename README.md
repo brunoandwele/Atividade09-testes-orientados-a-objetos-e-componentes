@@ -60,3 +60,9 @@ Atividade_9_Testes_att/
 ├── requirements.txt           # Dependências do projeto
 └── README.md                  # Documentação do projeto
 ```
+
+---
+## Resultados:
+
+<img width="2902" height="1426" alt="image" src="https://github.com/user-attachments/assets/67ce0067-a380-4c63-840e-ebf444fd96c4" />
+
