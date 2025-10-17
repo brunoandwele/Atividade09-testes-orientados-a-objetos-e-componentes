@@ -43,6 +43,7 @@ pytest -v -s #Executar com logs
 
 ---
 ## Estreutura do projeto
+```
 Atividade_9_Testes_att/
 │
 ├── task_manager/
@@ -58,3 +59,4 @@ Atividade_9_Testes_att/
 │
 ├── requirements.txt           # Dependências do projeto
 └── README.md                  # Documentação do projeto
+```
