@@ -23,6 +23,14 @@ Clone o repositório e instale as dependências:
 pip install -r requirements.txt
 ```
 
+Esse comando irá instalar as depdendencias do projeto:
+
+```bash
+pytest==7.4.0
+pytest-cov==4.0.0
+pytest-mock==3.11.1
+```
+
 ---
 ## Execução dos teses
 ```bash
